@@ -2,7 +2,7 @@
 
 ## Project Goals
 The goal of this project is to:
-1. Serve as a culmination of skills learned throughout the semester.
+1. Serve as a culmination of skills learned throughout UNR CS135 class.
 
 ### Important Notes
 1.	**Formatting**: Make sure that you follow the precise recommendations for the output content and formatting. For your testing purposes, the autograder will be verifying your code compiles.
