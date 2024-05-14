@@ -1,6 +1,6 @@
 <h1>Connect 4</h1>
 
- ### [YouTube Demonstration](link)
+ ### [YouTube Demonstration](https://youtu.be/vXz60g-xIG0)
 
 <h2>Description</h2>
 Project consist of 1 C file to create a version of connect 4 within the terminal on your computer. The game allows for two players, give each player's name, while saving and loading games. There were 2 other contributers on this project. My main objectives were creating the save/load file functions and creating the logic for how the game would determine if a connect 4 had been made. 
